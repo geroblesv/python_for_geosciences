@@ -1,5 +1,7 @@
 Python for Geosciences
 ======================
+## Changes to README
+Changes made by GR
 
 You can run this notebooks interactevellu on [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/koldunovn/python_for_geosciences/master)
  
